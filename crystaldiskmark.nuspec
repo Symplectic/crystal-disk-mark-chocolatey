@@ -3,16 +3,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>crystaldiskmark</id>
-    <version>6.0.2</version>
-    <packageSourceUrl>https://github.com/BrightCandle/CrystalDiskMark</packageSourceUrl>
-    <owners>BrightCandle</owners>
+    <version>7.0.0</version>
+    <packageSourceUrl>https://github.com/Symplectic/crystal-disk-mark-chocolatey</packageSourceUrl>
+    <owners>Symplectic</owners>
 
     <title>CrystalDiskMark (Install)</title>
     <authors>Noriyuki Miyazaki</authors>
 
     <projectUrl>https://crystalmark.info/en/software/crystaldiskmark/</projectUrl>
     <iconUrl>https://chocolatey.org/content/packageimages/crystaldiskmark.5.2.0.png</iconUrl>
-    <copyright>© 2007 Noriyuki Miyazaki</copyright>
+    <copyright>© 2019 Noriyuki Miyazaki</copyright>
 
     <licenseUrl>https://crystalmark.info/en/software/crystaldiskmark/crystaldiskmark-license/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

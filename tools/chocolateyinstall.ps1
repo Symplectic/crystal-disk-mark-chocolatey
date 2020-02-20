@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://osdn.net/frs/redir.php?m=dotsrc&f=crystaldiskmark%2F68624%2FCrystalDiskMark6_0_2.exe'
+$url        = 'https://osdn.net/frs/redir.php?m=liquid&f=crystaldiskmark%2F71859%2FCrystalDiskMark7_0_0g.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -12,7 +12,7 @@ $packageArgs = @{
 
   softwareName  = 'CrystalDiskMark*'
 
-  checksum      = '84CCC2DC20E33ABE48E9E452566213EDF36ADF5F308854FA55A9E15FF9EFA2E0'
+  checksum      = '2FF20A988E5593D095747819AFFBA325F216B3660C049B8232BB75513C74E63A'
   checksumType  = 'sha256'
   checksum64    = ''
   checksumType64= 'sha256'
